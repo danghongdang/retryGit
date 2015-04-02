@@ -6,7 +6,7 @@ public class HelloGit {
 		System.out.println("hello githut!"+"add something!"+"add some again");
 		System.out.println("hello githut!");
                 System.out.println("asdfasdf");
-        int a = 1;
+        int a = 2;
         if(a==1){
         	System.out.println("abcabc");
         }
