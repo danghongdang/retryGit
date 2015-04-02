@@ -10,6 +10,6 @@ public class HelloGit {
         if(a!=1){
         	System.out.println("abcabc");
         }
-        System.out.pritnln("abcdefghijklim");
+        System.out.println("abcdefghijklim");
 	}
 }
