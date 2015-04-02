@@ -7,7 +7,7 @@ public class HelloGit {
 		System.out.println("hello githut!");
                 System.out.println("asdfasdf");
         int a = 2;
-        if(a!=5){
+        if(a!=7){
         	System.out.println("abcabc");
         }
         System.out.println("abcdefghijklim");
