@@ -10,12 +10,5 @@ public class HelloGit {
         if(a!=7){
         	System.out.println("abcabc");
         }
-	System.out.println("aasdfbcabc111111111111111111");
-        System.out.println("abcdefghijklim");
-        System.out.println("abcdefghijklim");
-        System.out.println("i want make branch123123123");
-        System.out.println("i want make branch");
-        System.out.println("abcdefghijklim");
-        System.out.println("abcdefghijklim");
 	}
 }
