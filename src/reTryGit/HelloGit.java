@@ -15,5 +15,6 @@ public class HelloGit {
         System.out.println("abcdefghijklim");
         System.out.println("i want make branch");
         System.out.println("i want make branch");
+        System.out.println("abcdefghijklim");
 	}
 }
